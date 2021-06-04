@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "661106348773",
+    "firebase_url": "https://noticeboard-81c28-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "noticeboard-81c28",
+    "storage_bucket": "noticeboard-81c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661106348773:android:0473daf3aa781772417a0c",
+        "android_client_info": {
+          "package_name": "com.ammart.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661106348773-9sro0emhs2lv34u5ncrrbe9tvshkpoai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-E1rkaa3SuIGTsh2BsBTmxpo9Vr8_zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661106348773-9sro0emhs2lv34u5ncrrbe9tvshkpoai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661106348773:android:2cea14511b65745f417a0c",
+        "android_client_info": {
+          "package_name": "com.ammart.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661106348773-9sro0emhs2lv34u5ncrrbe9tvshkpoai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-E1rkaa3SuIGTsh2BsBTmxpo9Vr8_zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661106348773-9sro0emhs2lv34u5ncrrbe9tvshkpoai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
